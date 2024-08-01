@@ -63,5 +63,3 @@ Desenvolvido com ❤️ por [f4kie](https://github.com/f4kie)
 1. **Badges**: Adicionei badges para Node.js e licença MIT para dar um toque visual agradável.
 2. **Ícones**: Usei emojis para destacar as seções, tornando o `README` mais visualmente atraente.
 3. **Link para o perfil**: No final, adicionei um link para o seu perfil do GitHub. Você pode personalizar com seu nome e link.
-
-Este `README.md` agora está mais organizado e visualmente atraente para o seu repositório no GitHub.
