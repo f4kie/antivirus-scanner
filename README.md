@@ -20,7 +20,7 @@ Um scanner de antivírus básico escrito em Node.js que verifica arquivos em um 
 
 ## 📦 Instalação
 
-1. Clone o repositório para o seu ambiente local:
+1. Clone o repositório para o seu ambiente:
 
    ```sh
    git clone https://github.com/f4kie/antivirus-scanner.git
